@@ -1,0 +1,19 @@
+.loginHeader{
+    background-color: rgb(234, 231, 226);
+}
+#forgotPasswordLink{
+    text-decoration: none;
+}
+h5{
+    margin: 0;
+    padding: 20px;
+}
+#navBar{
+    background-color: white;
+}
+#navBarHeader{
+    color: black;
+}
+.navBarButton{
+    color: rgb(116, 117, 119);
+}
